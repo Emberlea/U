@@ -1,0 +1,14 @@
+body{
+    background-color:darkcyan;
+}
+label{
+    color:white;
+}
+p{
+    color:white;
+}
+#a{
+    color:white;
+    letter-spacing:10px;
+    font-size:30px;
+}
